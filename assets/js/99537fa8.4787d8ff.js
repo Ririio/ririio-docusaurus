@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkririio_docusaurus=self.webpackChunkririio_docusaurus||[]).push([[6954],{7372:o=>{o.exports=JSON.parse('{"permalink":"/ririio-docusaurus/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
